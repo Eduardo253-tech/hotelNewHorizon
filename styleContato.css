@@ -1,0 +1,13 @@
+span{
+    color: blueviolet;
+    font-size: 2.5rem;
+}
+
+.container{
+    border: 1px solid #ddd;
+    max-width: 1000px;
+    border-radius: 100px;
+    margin-top: 10rem;
+    margin-bottom: 20px;
+    text-align: center;
+}

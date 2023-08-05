@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-size: 2rem;
+    color: #fffffd;
+    
+}
+nav{ 
+
+    background-image: url(./imagens/HeaderImg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1.5rem;
+    height: 300px;
+    align-items: flex-start;
+    .container-fluid{
+        margin-top: -200px;
+    }
+}
+
+.btn {
+    background-color: aliceblue;
+}
+
+.nav-link {
+    color: #fffffd;
+}
